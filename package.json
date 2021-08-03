@@ -1,0 +1,26 @@
+{
+  "name": "allex_saltnhashuserresolverlib",
+  "version": "1.0.0",
+  "description": "AllexJS userresolver specialization that hashes using salt",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-libs/saltnhashuserresolver.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "salt",
+    "hash",
+    "userresolver",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/saltnhashuserresolver/issues"
+  },
+  "homepage": "https://github.com/allex-libs/saltnhashuserresolver#readme"
+}
